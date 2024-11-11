@@ -14,3 +14,4 @@ def counter():
         counter += 1
 
 counter()
+
